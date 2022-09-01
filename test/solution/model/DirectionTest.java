@@ -13,10 +13,4 @@ class DirectionTest {
         assertEquals("Eastbound", Direction.EAST.toString());
         assertEquals("Westbound", Direction.WEST.toString());
     }
-
-    @Test
-    void testToStringUnion() {
-        assertEquals("Northbound towards Finch", Direction.NORTHTOFINCH.toString());
-        assertEquals("Northbound towards Vaughan Metropolitan Centre", Direction.NORTHTOVAUGHAN.toString());
-    }
 }
