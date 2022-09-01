@@ -7,7 +7,7 @@ This project aims to tell information regarding subway schedule.
 3. As noted above, the data model should account for direction (north, south, east, west) and handle stations that have intersecting lines.
 
 ## Special Cases:
-1. Union Station has 2 Northbound Stations, 1 to Vaughan Metropolitan Centre, 1 to Finch.
+1. Union Station has 2 Northbound Stations, 1 to Vaughan Metropolitan Centre, 1 to Finch. With further clarification, NB is terminating at Vaughan while Finch is now the SB.
 
 ## Input Data Format
 Input data will provide all arrival time to a particular station at each corresponding direction
