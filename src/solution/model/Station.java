@@ -29,10 +29,9 @@ public class Station {
      * the arrival time is in increasing order</strong>
      *
      * @param t the new train to be inserted
-     * @return the inserted index
      * @throws IllegalArgumentException when it violates the assumption that trains will not arrive at the same time.
      */
-    public int addSchedule(Train t) {
+    public void addSchedule(Train t) {
         Direction dir = t.getDirection();
         schedule.putIfAbsent(dir, new ArrayList<>());
         List<Train> curSchedule = schedule.get(dir);
@@ -42,10 +41,7 @@ public class Station {
         if(idx > 0) {
             throw new IllegalArgumentException("Violation of assumption that: no train will arrive at the same time");
         }
-
-        int insertIdx = Math.abs(idx + 1);
-        curSchedule.add(insertIdx, t);
-        return insertIdx;
+        curSchedule.add(Math.abs(idx + 1), t);
     }
 
     /*
