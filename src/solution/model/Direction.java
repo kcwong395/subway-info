@@ -1,7 +1,6 @@
 package solution.model;
 
 public enum Direction {
-    // Union special case
     NORTH, SOUTH, EAST, WEST;
 
     @Override
