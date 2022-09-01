@@ -1,0 +1,1600 @@
+Vaughan Metropolitan Centre,2022-08-30 06:00,South
+Highway 407,2022-08-30 06:01,South
+Pioneer Village,2022-08-30 06:03,South
+York University,2022-08-30 06:05,South
+Finch West,2022-08-30 06:08,South
+Downsview Park,2022-08-30 06:11,South
+Sheppard West,2022-08-30 06:14,South
+Wilson,2022-08-30 06:17,South
+Yorkdale,2022-08-30 06:18,South
+Lawrence West,2022-08-30 06:19,South
+Glencairn,2022-08-30 06:22,South
+Eglinton West,2022-08-30 06:25,South
+St. Clair West,2022-08-30 06:28,South
+Dupont,2022-08-30 06:31,South
+Spadina,2022-08-30 06:33,South
+St. George,2022-08-30 06:36,South
+Museum,2022-08-30 06:39,South
+Queen's Park,2022-08-30 06:41,South
+St. Patrick,2022-08-30 06:42,South
+Osgoode,2022-08-30 06:45,South
+St. Andrew,2022-08-30 06:48,South
+Union,2022-08-30 06:50,South
+King,2022-08-30 06:51,South
+Queen,2022-08-30 06:54,South
+Dundas,2022-08-30 06:57,South
+College,2022-08-30 07:00,South
+Wellesley,2022-08-30 07:02,South
+Bloor-Yonge,2022-08-30 07:03,South
+Rosedale,2022-08-30 07:05,South
+Summerhill,2022-08-30 07:06,South
+St. Clair,2022-08-30 07:09,South
+Davisville,2022-08-30 07:12,South
+Eglinton,2022-08-30 07:15,South
+Lawrence,2022-08-30 07:18,South
+York Mills,2022-08-30 07:21,South
+Sheppard-Yonge,2022-08-30 07:24,South
+North York Centre,2022-08-30 07:27,South
+Finch,2022-08-30 07:28,South
+Finch,2022-08-30 06:00,North
+North York Centre,2022-08-30 06:01,North
+Sheppard-Yonge,2022-08-30 06:04,North
+York Mills,2022-08-30 06:07,North
+Lawrence,2022-08-30 06:10,North
+Eglinton,2022-08-30 06:13,North
+Davisville,2022-08-30 06:16,North
+St. Clair,2022-08-30 06:19,North
+Summerhill,2022-08-30 06:22,North
+Rosedale,2022-08-30 06:23,North
+Bloor-Yonge,2022-08-30 06:25,North
+Wellesley,2022-08-30 06:26,North
+College,2022-08-30 06:28,North
+Dundas,2022-08-30 06:31,North
+Queen,2022-08-30 06:34,North
+King,2022-08-30 06:37,North
+Union,2022-08-30 06:38,North
+St. Andrew,2022-08-30 06:40,North
+Osgoode,2022-08-30 06:43,North
+St. Patrick,2022-08-30 06:46,North
+Queen's Park,2022-08-30 06:47,North
+Museum,2022-08-30 06:49,North
+St. George,2022-08-30 06:52,North
+Spadina,2022-08-30 06:55,North
+Dupont,2022-08-30 06:57,North
+St. Clair West,2022-08-30 07:00,North
+Eglinton West,2022-08-30 07:03,North
+Glencairn,2022-08-30 07:06,North
+Lawrence West,2022-08-30 07:09,North
+Yorkdale,2022-08-30 07:10,North
+Wilson,2022-08-30 07:11,North
+Sheppard West,2022-08-30 07:14,North
+Downsview Park,2022-08-30 07:17,North
+Finch West,2022-08-30 07:20,North
+York University,2022-08-30 07:23,North
+Pioneer Village,2022-08-30 07:25,North
+Highway 407,2022-08-30 07:27,North
+Vaughan Metropolitan Centre,2022-08-30 07:28,North
+Vaughan Metropolitan Centre,2022-08-30 07:00,South
+Highway 407,2022-08-30 07:01,South
+Pioneer Village,2022-08-30 07:03,South
+York University,2022-08-30 07:05,South
+Finch West,2022-08-30 07:08,South
+Downsview Park,2022-08-30 07:11,South
+Sheppard West,2022-08-30 07:14,South
+Wilson,2022-08-30 07:17,South
+Yorkdale,2022-08-30 07:18,South
+Lawrence West,2022-08-30 07:19,South
+Glencairn,2022-08-30 07:22,South
+Eglinton West,2022-08-30 07:25,South
+St. Clair West,2022-08-30 07:28,South
+Dupont,2022-08-30 07:31,South
+Spadina,2022-08-30 07:33,South
+St. George,2022-08-30 07:36,South
+Museum,2022-08-30 07:39,South
+Queen's Park,2022-08-30 07:41,South
+St. Patrick,2022-08-30 07:42,South
+Osgoode,2022-08-30 07:45,South
+St. Andrew,2022-08-30 07:48,South
+Union,2022-08-30 07:50,South
+King,2022-08-30 07:51,South
+Queen,2022-08-30 07:54,South
+Dundas,2022-08-30 07:57,South
+College,2022-08-30 08:00,South
+Wellesley,2022-08-30 08:02,South
+Bloor-Yonge,2022-08-30 08:03,South
+Rosedale,2022-08-30 08:05,South
+Summerhill,2022-08-30 08:06,South
+St. Clair,2022-08-30 08:09,South
+Davisville,2022-08-30 08:12,South
+Eglinton,2022-08-30 08:15,South
+Lawrence,2022-08-30 08:18,South
+York Mills,2022-08-30 08:21,South
+Sheppard-Yonge,2022-08-30 08:24,South
+North York Centre,2022-08-30 08:27,South
+Finch,2022-08-30 08:28,South
+Finch,2022-08-30 07:00,North
+North York Centre,2022-08-30 07:01,North
+Sheppard-Yonge,2022-08-30 07:04,North
+York Mills,2022-08-30 07:07,North
+Lawrence,2022-08-30 07:10,North
+Eglinton,2022-08-30 07:13,North
+Davisville,2022-08-30 07:16,North
+St. Clair,2022-08-30 07:19,North
+Summerhill,2022-08-30 07:22,North
+Rosedale,2022-08-30 07:23,North
+Bloor-Yonge,2022-08-30 07:25,North
+Wellesley,2022-08-30 07:26,North
+College,2022-08-30 07:28,North
+Dundas,2022-08-30 07:31,North
+Queen,2022-08-30 07:34,North
+King,2022-08-30 07:37,North
+Union,2022-08-30 07:38,North
+St. Andrew,2022-08-30 07:40,North
+Osgoode,2022-08-30 07:43,North
+St. Patrick,2022-08-30 07:46,North
+Queen's Park,2022-08-30 07:47,North
+Museum,2022-08-30 07:49,North
+St. George,2022-08-30 07:52,North
+Spadina,2022-08-30 07:55,North
+Dupont,2022-08-30 07:57,North
+St. Clair West,2022-08-30 08:00,North
+Eglinton West,2022-08-30 08:03,North
+Glencairn,2022-08-30 08:06,North
+Lawrence West,2022-08-30 08:09,North
+Yorkdale,2022-08-30 08:10,North
+Wilson,2022-08-30 08:11,North
+Sheppard West,2022-08-30 08:14,North
+Downsview Park,2022-08-30 08:17,North
+Finch West,2022-08-30 08:20,North
+York University,2022-08-30 08:23,North
+Pioneer Village,2022-08-30 08:25,North
+Highway 407,2022-08-30 08:27,North
+Vaughan Metropolitan Centre,2022-08-30 08:28,North
+Vaughan Metropolitan Centre,2022-08-30 08:00,South
+Highway 407,2022-08-30 08:01,South
+Pioneer Village,2022-08-30 08:03,South
+York University,2022-08-30 08:05,South
+Finch West,2022-08-30 08:08,South
+Downsview Park,2022-08-30 08:11,South
+Sheppard West,2022-08-30 08:14,South
+Wilson,2022-08-30 08:17,South
+Yorkdale,2022-08-30 08:18,South
+Lawrence West,2022-08-30 08:19,South
+Glencairn,2022-08-30 08:22,South
+Eglinton West,2022-08-30 08:25,South
+St. Clair West,2022-08-30 08:28,South
+Dupont,2022-08-30 08:31,South
+Spadina,2022-08-30 08:33,South
+St. George,2022-08-30 08:36,South
+Museum,2022-08-30 08:39,South
+Queen's Park,2022-08-30 08:41,South
+St. Patrick,2022-08-30 08:42,South
+Osgoode,2022-08-30 08:45,South
+St. Andrew,2022-08-30 08:48,South
+Union,2022-08-30 08:50,South
+King,2022-08-30 08:51,South
+Queen,2022-08-30 08:54,South
+Dundas,2022-08-30 08:57,South
+College,2022-08-30 09:00,South
+Wellesley,2022-08-30 09:02,South
+Bloor-Yonge,2022-08-30 09:03,South
+Rosedale,2022-08-30 09:05,South
+Summerhill,2022-08-30 09:06,South
+St. Clair,2022-08-30 09:09,South
+Davisville,2022-08-30 09:12,South
+Eglinton,2022-08-30 09:15,South
+Lawrence,2022-08-30 09:18,South
+York Mills,2022-08-30 09:21,South
+Sheppard-Yonge,2022-08-30 09:24,South
+North York Centre,2022-08-30 09:27,South
+Finch,2022-08-30 09:28,South
+Finch,2022-08-30 08:00,North
+North York Centre,2022-08-30 08:01,North
+Sheppard-Yonge,2022-08-30 08:04,North
+York Mills,2022-08-30 08:07,North
+Lawrence,2022-08-30 08:10,North
+Eglinton,2022-08-30 08:13,North
+Davisville,2022-08-30 08:16,North
+St. Clair,2022-08-30 08:19,North
+Summerhill,2022-08-30 08:22,North
+Rosedale,2022-08-30 08:23,North
+Bloor-Yonge,2022-08-30 08:25,North
+Wellesley,2022-08-30 08:26,North
+College,2022-08-30 08:28,North
+Dundas,2022-08-30 08:31,North
+Queen,2022-08-30 08:34,North
+King,2022-08-30 08:37,North
+Union,2022-08-30 08:38,North
+St. Andrew,2022-08-30 08:40,North
+Osgoode,2022-08-30 08:43,North
+St. Patrick,2022-08-30 08:46,North
+Queen's Park,2022-08-30 08:47,North
+Museum,2022-08-30 08:49,North
+St. George,2022-08-30 08:52,North
+Spadina,2022-08-30 08:55,North
+Dupont,2022-08-30 08:57,North
+St. Clair West,2022-08-30 09:00,North
+Eglinton West,2022-08-30 09:03,North
+Glencairn,2022-08-30 09:06,North
+Lawrence West,2022-08-30 09:09,North
+Yorkdale,2022-08-30 09:10,North
+Wilson,2022-08-30 09:11,North
+Sheppard West,2022-08-30 09:14,North
+Downsview Park,2022-08-30 09:17,North
+Finch West,2022-08-30 09:20,North
+York University,2022-08-30 09:23,North
+Pioneer Village,2022-08-30 09:25,North
+Highway 407,2022-08-30 09:27,North
+Vaughan Metropolitan Centre,2022-08-30 09:28,North
+Vaughan Metropolitan Centre,2022-08-30 09:00,South
+Highway 407,2022-08-30 09:01,South
+Pioneer Village,2022-08-30 09:03,South
+York University,2022-08-30 09:05,South
+Finch West,2022-08-30 09:08,South
+Downsview Park,2022-08-30 09:11,South
+Sheppard West,2022-08-30 09:14,South
+Wilson,2022-08-30 09:17,South
+Yorkdale,2022-08-30 09:18,South
+Lawrence West,2022-08-30 09:19,South
+Glencairn,2022-08-30 09:22,South
+Eglinton West,2022-08-30 09:25,South
+St. Clair West,2022-08-30 09:28,South
+Dupont,2022-08-30 09:31,South
+Spadina,2022-08-30 09:33,South
+St. George,2022-08-30 09:36,South
+Museum,2022-08-30 09:39,South
+Queen's Park,2022-08-30 09:41,South
+St. Patrick,2022-08-30 09:42,South
+Osgoode,2022-08-30 09:45,South
+St. Andrew,2022-08-30 09:48,South
+Union,2022-08-30 09:50,South
+King,2022-08-30 09:51,South
+Queen,2022-08-30 09:54,South
+Dundas,2022-08-30 09:57,South
+College,2022-08-30 10:00,South
+Wellesley,2022-08-30 10:02,South
+Bloor-Yonge,2022-08-30 10:03,South
+Rosedale,2022-08-30 10:05,South
+Summerhill,2022-08-30 10:06,South
+St. Clair,2022-08-30 10:09,South
+Davisville,2022-08-30 10:12,South
+Eglinton,2022-08-30 10:15,South
+Lawrence,2022-08-30 10:18,South
+York Mills,2022-08-30 10:21,South
+Sheppard-Yonge,2022-08-30 10:24,South
+North York Centre,2022-08-30 10:27,South
+Finch,2022-08-30 10:28,South
+Finch,2022-08-30 09:00,North
+North York Centre,2022-08-30 09:01,North
+Sheppard-Yonge,2022-08-30 09:04,North
+York Mills,2022-08-30 09:07,North
+Lawrence,2022-08-30 09:10,North
+Eglinton,2022-08-30 09:13,North
+Davisville,2022-08-30 09:16,North
+St. Clair,2022-08-30 09:19,North
+Summerhill,2022-08-30 09:22,North
+Rosedale,2022-08-30 09:23,North
+Bloor-Yonge,2022-08-30 09:25,North
+Wellesley,2022-08-30 09:26,North
+College,2022-08-30 09:28,North
+Dundas,2022-08-30 09:31,North
+Queen,2022-08-30 09:34,North
+King,2022-08-30 09:37,North
+Union,2022-08-30 09:38,North
+St. Andrew,2022-08-30 09:40,North
+Osgoode,2022-08-30 09:43,North
+St. Patrick,2022-08-30 09:46,North
+Queen's Park,2022-08-30 09:47,North
+Museum,2022-08-30 09:49,North
+St. George,2022-08-30 09:52,North
+Spadina,2022-08-30 09:55,North
+Dupont,2022-08-30 09:57,North
+St. Clair West,2022-08-30 10:00,North
+Eglinton West,2022-08-30 10:03,North
+Glencairn,2022-08-30 10:06,North
+Lawrence West,2022-08-30 10:09,North
+Yorkdale,2022-08-30 10:10,North
+Wilson,2022-08-30 10:11,North
+Sheppard West,2022-08-30 10:14,North
+Downsview Park,2022-08-30 10:17,North
+Finch West,2022-08-30 10:20,North
+York University,2022-08-30 10:23,North
+Pioneer Village,2022-08-30 10:25,North
+Highway 407,2022-08-30 10:27,North
+Vaughan Metropolitan Centre,2022-08-30 10:28,North
+Vaughan Metropolitan Centre,2022-08-30 10:00,South
+Highway 407,2022-08-30 10:01,South
+Pioneer Village,2022-08-30 10:03,South
+York University,2022-08-30 10:05,South
+Finch West,2022-08-30 10:08,South
+Downsview Park,2022-08-30 10:11,South
+Sheppard West,2022-08-30 10:14,South
+Wilson,2022-08-30 10:17,South
+Yorkdale,2022-08-30 10:18,South
+Lawrence West,2022-08-30 10:19,South
+Glencairn,2022-08-30 10:22,South
+Eglinton West,2022-08-30 10:25,South
+St. Clair West,2022-08-30 10:28,South
+Dupont,2022-08-30 10:31,South
+Spadina,2022-08-30 10:33,South
+St. George,2022-08-30 10:36,South
+Museum,2022-08-30 10:39,South
+Queen's Park,2022-08-30 10:41,South
+St. Patrick,2022-08-30 10:42,South
+Osgoode,2022-08-30 10:45,South
+St. Andrew,2022-08-30 10:48,South
+Union,2022-08-30 10:50,South
+King,2022-08-30 10:51,South
+Queen,2022-08-30 10:54,South
+Dundas,2022-08-30 10:57,South
+College,2022-08-30 11:00,South
+Wellesley,2022-08-30 11:02,South
+Bloor-Yonge,2022-08-30 11:03,South
+Rosedale,2022-08-30 11:05,South
+Summerhill,2022-08-30 11:06,South
+St. Clair,2022-08-30 11:09,South
+Davisville,2022-08-30 11:12,South
+Eglinton,2022-08-30 11:15,South
+Lawrence,2022-08-30 11:18,South
+York Mills,2022-08-30 11:21,South
+Sheppard-Yonge,2022-08-30 11:24,South
+North York Centre,2022-08-30 11:27,South
+Finch,2022-08-30 11:28,South
+Finch,2022-08-30 10:00,North
+North York Centre,2022-08-30 10:01,North
+Sheppard-Yonge,2022-08-30 10:04,North
+York Mills,2022-08-30 10:07,North
+Lawrence,2022-08-30 10:10,North
+Eglinton,2022-08-30 10:13,North
+Davisville,2022-08-30 10:16,North
+St. Clair,2022-08-30 10:19,North
+Summerhill,2022-08-30 10:22,North
+Rosedale,2022-08-30 10:23,North
+Bloor-Yonge,2022-08-30 10:25,North
+Wellesley,2022-08-30 10:26,North
+College,2022-08-30 10:28,North
+Dundas,2022-08-30 10:31,North
+Queen,2022-08-30 10:34,North
+King,2022-08-30 10:37,North
+Union,2022-08-30 10:38,North
+St. Andrew,2022-08-30 10:40,North
+Osgoode,2022-08-30 10:43,North
+St. Patrick,2022-08-30 10:46,North
+Queen's Park,2022-08-30 10:47,North
+Museum,2022-08-30 10:49,North
+St. George,2022-08-30 10:52,North
+Spadina,2022-08-30 10:55,North
+Dupont,2022-08-30 10:57,North
+St. Clair West,2022-08-30 11:00,North
+Eglinton West,2022-08-30 11:03,North
+Glencairn,2022-08-30 11:06,North
+Lawrence West,2022-08-30 11:09,North
+Yorkdale,2022-08-30 11:10,North
+Wilson,2022-08-30 11:11,North
+Sheppard West,2022-08-30 11:14,North
+Downsview Park,2022-08-30 11:17,North
+Finch West,2022-08-30 11:20,North
+York University,2022-08-30 11:23,North
+Pioneer Village,2022-08-30 11:25,North
+Highway 407,2022-08-30 11:27,North
+Vaughan Metropolitan Centre,2022-08-30 11:28,North
+Vaughan Metropolitan Centre,2022-08-30 11:00,South
+Highway 407,2022-08-30 11:01,South
+Pioneer Village,2022-08-30 11:03,South
+York University,2022-08-30 11:05,South
+Finch West,2022-08-30 11:08,South
+Downsview Park,2022-08-30 11:11,South
+Sheppard West,2022-08-30 11:14,South
+Wilson,2022-08-30 11:17,South
+Yorkdale,2022-08-30 11:18,South
+Lawrence West,2022-08-30 11:19,South
+Glencairn,2022-08-30 11:22,South
+Eglinton West,2022-08-30 11:25,South
+St. Clair West,2022-08-30 11:28,South
+Dupont,2022-08-30 11:31,South
+Spadina,2022-08-30 11:33,South
+St. George,2022-08-30 11:36,South
+Museum,2022-08-30 11:39,South
+Queen's Park,2022-08-30 11:41,South
+St. Patrick,2022-08-30 11:42,South
+Osgoode,2022-08-30 11:45,South
+St. Andrew,2022-08-30 11:48,South
+Union,2022-08-30 11:50,South
+King,2022-08-30 11:51,South
+Queen,2022-08-30 11:54,South
+Dundas,2022-08-30 11:57,South
+College,2022-08-30 12:00,South
+Wellesley,2022-08-30 12:02,South
+Bloor-Yonge,2022-08-30 12:03,South
+Rosedale,2022-08-30 12:05,South
+Summerhill,2022-08-30 12:06,South
+St. Clair,2022-08-30 12:09,South
+Davisville,2022-08-30 12:12,South
+Eglinton,2022-08-30 12:15,South
+Lawrence,2022-08-30 12:18,South
+York Mills,2022-08-30 12:21,South
+Sheppard-Yonge,2022-08-30 12:24,South
+North York Centre,2022-08-30 12:27,South
+Finch,2022-08-30 12:28,South
+Finch,2022-08-30 11:00,North
+North York Centre,2022-08-30 11:01,North
+Sheppard-Yonge,2022-08-30 11:04,North
+York Mills,2022-08-30 11:07,North
+Lawrence,2022-08-30 11:10,North
+Eglinton,2022-08-30 11:13,North
+Davisville,2022-08-30 11:16,North
+St. Clair,2022-08-30 11:19,North
+Summerhill,2022-08-30 11:22,North
+Rosedale,2022-08-30 11:23,North
+Bloor-Yonge,2022-08-30 11:25,North
+Wellesley,2022-08-30 11:26,North
+College,2022-08-30 11:28,North
+Dundas,2022-08-30 11:31,North
+Queen,2022-08-30 11:34,North
+King,2022-08-30 11:37,North
+Union,2022-08-30 11:38,North
+St. Andrew,2022-08-30 11:40,North
+Osgoode,2022-08-30 11:43,North
+St. Patrick,2022-08-30 11:46,North
+Queen's Park,2022-08-30 11:47,North
+Museum,2022-08-30 11:49,North
+St. George,2022-08-30 11:52,North
+Spadina,2022-08-30 11:55,North
+Dupont,2022-08-30 11:57,North
+St. Clair West,2022-08-30 12:00,North
+Eglinton West,2022-08-30 12:03,North
+Glencairn,2022-08-30 12:06,North
+Lawrence West,2022-08-30 12:09,North
+Yorkdale,2022-08-30 12:10,North
+Wilson,2022-08-30 12:11,North
+Sheppard West,2022-08-30 12:14,North
+Downsview Park,2022-08-30 12:17,North
+Finch West,2022-08-30 12:20,North
+York University,2022-08-30 12:23,North
+Pioneer Village,2022-08-30 12:25,North
+Highway 407,2022-08-30 12:27,North
+Vaughan Metropolitan Centre,2022-08-30 12:28,North
+Vaughan Metropolitan Centre,2022-08-30 12:00,South
+Highway 407,2022-08-30 12:01,South
+Pioneer Village,2022-08-30 12:03,South
+York University,2022-08-30 12:05,South
+Finch West,2022-08-30 12:08,South
+Downsview Park,2022-08-30 12:11,South
+Sheppard West,2022-08-30 12:14,South
+Wilson,2022-08-30 12:17,South
+Yorkdale,2022-08-30 12:18,South
+Lawrence West,2022-08-30 12:19,South
+Glencairn,2022-08-30 12:22,South
+Eglinton West,2022-08-30 12:25,South
+St. Clair West,2022-08-30 12:28,South
+Dupont,2022-08-30 12:31,South
+Spadina,2022-08-30 12:33,South
+St. George,2022-08-30 12:36,South
+Museum,2022-08-30 12:39,South
+Queen's Park,2022-08-30 12:41,South
+St. Patrick,2022-08-30 12:42,South
+Osgoode,2022-08-30 12:45,South
+St. Andrew,2022-08-30 12:48,South
+Union,2022-08-30 12:50,South
+King,2022-08-30 12:51,South
+Queen,2022-08-30 12:54,South
+Dundas,2022-08-30 12:57,South
+College,2022-08-30 13:00,South
+Wellesley,2022-08-30 13:02,South
+Bloor-Yonge,2022-08-30 13:03,South
+Rosedale,2022-08-30 13:05,South
+Summerhill,2022-08-30 13:06,South
+St. Clair,2022-08-30 13:09,South
+Davisville,2022-08-30 13:12,South
+Eglinton,2022-08-30 13:15,South
+Lawrence,2022-08-30 13:18,South
+York Mills,2022-08-30 13:21,South
+Sheppard-Yonge,2022-08-30 13:24,South
+North York Centre,2022-08-30 13:27,South
+Finch,2022-08-30 13:28,South
+Finch,2022-08-30 12:00,North
+North York Centre,2022-08-30 12:01,North
+Sheppard-Yonge,2022-08-30 12:04,North
+York Mills,2022-08-30 12:07,North
+Lawrence,2022-08-30 12:10,North
+Eglinton,2022-08-30 12:13,North
+Davisville,2022-08-30 12:16,North
+St. Clair,2022-08-30 12:19,North
+Summerhill,2022-08-30 12:22,North
+Rosedale,2022-08-30 12:23,North
+Bloor-Yonge,2022-08-30 12:25,North
+Wellesley,2022-08-30 12:26,North
+College,2022-08-30 12:28,North
+Dundas,2022-08-30 12:31,North
+Queen,2022-08-30 12:34,North
+King,2022-08-30 12:37,North
+Union,2022-08-30 12:38,North
+St. Andrew,2022-08-30 12:40,North
+Osgoode,2022-08-30 12:43,North
+St. Patrick,2022-08-30 12:46,North
+Queen's Park,2022-08-30 12:47,North
+Museum,2022-08-30 12:49,North
+St. George,2022-08-30 12:52,North
+Spadina,2022-08-30 12:55,North
+Dupont,2022-08-30 12:57,North
+St. Clair West,2022-08-30 13:00,North
+Eglinton West,2022-08-30 13:03,North
+Glencairn,2022-08-30 13:06,North
+Lawrence West,2022-08-30 13:09,North
+Yorkdale,2022-08-30 13:10,North
+Wilson,2022-08-30 13:11,North
+Sheppard West,2022-08-30 13:14,North
+Downsview Park,2022-08-30 13:17,North
+Finch West,2022-08-30 13:20,North
+York University,2022-08-30 13:23,North
+Pioneer Village,2022-08-30 13:25,North
+Highway 407,2022-08-30 13:27,North
+Vaughan Metropolitan Centre,2022-08-30 13:28,North
+Vaughan Metropolitan Centre,2022-08-30 13:00,South
+Highway 407,2022-08-30 13:01,South
+Pioneer Village,2022-08-30 13:03,South
+York University,2022-08-30 13:05,South
+Finch West,2022-08-30 13:08,South
+Downsview Park,2022-08-30 13:11,South
+Sheppard West,2022-08-30 13:14,South
+Wilson,2022-08-30 13:17,South
+Yorkdale,2022-08-30 13:18,South
+Lawrence West,2022-08-30 13:19,South
+Glencairn,2022-08-30 13:22,South
+Eglinton West,2022-08-30 13:25,South
+St. Clair West,2022-08-30 13:28,South
+Dupont,2022-08-30 13:31,South
+Spadina,2022-08-30 13:33,South
+St. George,2022-08-30 13:36,South
+Museum,2022-08-30 13:39,South
+Queen's Park,2022-08-30 13:41,South
+St. Patrick,2022-08-30 13:42,South
+Osgoode,2022-08-30 13:45,South
+St. Andrew,2022-08-30 13:48,South
+Union,2022-08-30 13:50,South
+King,2022-08-30 13:51,South
+Queen,2022-08-30 13:54,South
+Dundas,2022-08-30 13:57,South
+College,2022-08-30 14:00,South
+Wellesley,2022-08-30 14:02,South
+Bloor-Yonge,2022-08-30 14:03,South
+Rosedale,2022-08-30 14:05,South
+Summerhill,2022-08-30 14:06,South
+St. Clair,2022-08-30 14:09,South
+Davisville,2022-08-30 14:12,South
+Eglinton,2022-08-30 14:15,South
+Lawrence,2022-08-30 14:18,South
+York Mills,2022-08-30 14:21,South
+Sheppard-Yonge,2022-08-30 14:24,South
+North York Centre,2022-08-30 14:27,South
+Finch,2022-08-30 14:28,South
+Finch,2022-08-30 13:00,North
+North York Centre,2022-08-30 13:01,North
+Sheppard-Yonge,2022-08-30 13:04,North
+York Mills,2022-08-30 13:07,North
+Lawrence,2022-08-30 13:10,North
+Eglinton,2022-08-30 13:13,North
+Davisville,2022-08-30 13:16,North
+St. Clair,2022-08-30 13:19,North
+Summerhill,2022-08-30 13:22,North
+Rosedale,2022-08-30 13:23,North
+Bloor-Yonge,2022-08-30 13:25,North
+Wellesley,2022-08-30 13:26,North
+College,2022-08-30 13:28,North
+Dundas,2022-08-30 13:31,North
+Queen,2022-08-30 13:34,North
+King,2022-08-30 13:37,North
+Union,2022-08-30 13:38,North
+St. Andrew,2022-08-30 13:40,North
+Osgoode,2022-08-30 13:43,North
+St. Patrick,2022-08-30 13:46,North
+Queen's Park,2022-08-30 13:47,North
+Museum,2022-08-30 13:49,North
+St. George,2022-08-30 13:52,North
+Spadina,2022-08-30 13:55,North
+Dupont,2022-08-30 13:57,North
+St. Clair West,2022-08-30 14:00,North
+Eglinton West,2022-08-30 14:03,North
+Glencairn,2022-08-30 14:06,North
+Lawrence West,2022-08-30 14:09,North
+Yorkdale,2022-08-30 14:10,North
+Wilson,2022-08-30 14:11,North
+Sheppard West,2022-08-30 14:14,North
+Downsview Park,2022-08-30 14:17,North
+Finch West,2022-08-30 14:20,North
+York University,2022-08-30 14:23,North
+Pioneer Village,2022-08-30 14:25,North
+Highway 407,2022-08-30 14:27,North
+Vaughan Metropolitan Centre,2022-08-30 14:28,North
+Vaughan Metropolitan Centre,2022-08-30 14:00,South
+Highway 407,2022-08-30 14:01,South
+Pioneer Village,2022-08-30 14:03,South
+York University,2022-08-30 14:05,South
+Finch West,2022-08-30 14:08,South
+Downsview Park,2022-08-30 14:11,South
+Sheppard West,2022-08-30 14:14,South
+Wilson,2022-08-30 14:17,South
+Yorkdale,2022-08-30 14:18,South
+Lawrence West,2022-08-30 14:19,South
+Glencairn,2022-08-30 14:22,South
+Eglinton West,2022-08-30 14:25,South
+St. Clair West,2022-08-30 14:28,South
+Dupont,2022-08-30 14:31,South
+Spadina,2022-08-30 14:33,South
+St. George,2022-08-30 14:36,South
+Museum,2022-08-30 14:39,South
+Queen's Park,2022-08-30 14:41,South
+St. Patrick,2022-08-30 14:42,South
+Osgoode,2022-08-30 14:45,South
+St. Andrew,2022-08-30 14:48,South
+Union,2022-08-30 14:50,South
+King,2022-08-30 14:51,South
+Queen,2022-08-30 14:54,South
+Dundas,2022-08-30 14:57,South
+College,2022-08-30 15:00,South
+Wellesley,2022-08-30 15:02,South
+Bloor-Yonge,2022-08-30 15:03,South
+Rosedale,2022-08-30 15:05,South
+Summerhill,2022-08-30 15:06,South
+St. Clair,2022-08-30 15:09,South
+Davisville,2022-08-30 15:12,South
+Eglinton,2022-08-30 15:15,South
+Lawrence,2022-08-30 15:18,South
+York Mills,2022-08-30 15:21,South
+Sheppard-Yonge,2022-08-30 15:24,South
+North York Centre,2022-08-30 15:27,South
+Finch,2022-08-30 15:28,South
+Finch,2022-08-30 14:00,North
+North York Centre,2022-08-30 14:01,North
+Sheppard-Yonge,2022-08-30 14:04,North
+York Mills,2022-08-30 14:07,North
+Lawrence,2022-08-30 14:10,North
+Eglinton,2022-08-30 14:13,North
+Davisville,2022-08-30 14:16,North
+St. Clair,2022-08-30 14:19,North
+Summerhill,2022-08-30 14:22,North
+Rosedale,2022-08-30 14:23,North
+Bloor-Yonge,2022-08-30 14:25,North
+Wellesley,2022-08-30 14:26,North
+College,2022-08-30 14:28,North
+Dundas,2022-08-30 14:31,North
+Queen,2022-08-30 14:34,North
+King,2022-08-30 14:37,North
+Union,2022-08-30 14:38,North
+St. Andrew,2022-08-30 14:40,North
+Osgoode,2022-08-30 14:43,North
+St. Patrick,2022-08-30 14:46,North
+Queen's Park,2022-08-30 14:47,North
+Museum,2022-08-30 14:49,North
+St. George,2022-08-30 14:52,North
+Spadina,2022-08-30 14:55,North
+Dupont,2022-08-30 14:57,North
+St. Clair West,2022-08-30 15:00,North
+Eglinton West,2022-08-30 15:03,North
+Glencairn,2022-08-30 15:06,North
+Lawrence West,2022-08-30 15:09,North
+Yorkdale,2022-08-30 15:10,North
+Wilson,2022-08-30 15:11,North
+Sheppard West,2022-08-30 15:14,North
+Downsview Park,2022-08-30 15:17,North
+Finch West,2022-08-30 15:20,North
+York University,2022-08-30 15:23,North
+Pioneer Village,2022-08-30 15:25,North
+Highway 407,2022-08-30 15:27,North
+Vaughan Metropolitan Centre,2022-08-30 15:28,North
+Vaughan Metropolitan Centre,2022-08-30 15:00,South
+Highway 407,2022-08-30 15:01,South
+Pioneer Village,2022-08-30 15:03,South
+York University,2022-08-30 15:05,South
+Finch West,2022-08-30 15:08,South
+Downsview Park,2022-08-30 15:11,South
+Sheppard West,2022-08-30 15:14,South
+Wilson,2022-08-30 15:17,South
+Yorkdale,2022-08-30 15:18,South
+Lawrence West,2022-08-30 15:19,South
+Glencairn,2022-08-30 15:22,South
+Eglinton West,2022-08-30 15:25,South
+St. Clair West,2022-08-30 15:28,South
+Dupont,2022-08-30 15:31,South
+Spadina,2022-08-30 15:33,South
+St. George,2022-08-30 15:36,South
+Museum,2022-08-30 15:39,South
+Queen's Park,2022-08-30 15:41,South
+St. Patrick,2022-08-30 15:42,South
+Osgoode,2022-08-30 15:45,South
+St. Andrew,2022-08-30 15:48,South
+Union,2022-08-30 15:50,South
+King,2022-08-30 15:51,South
+Queen,2022-08-30 15:54,South
+Dundas,2022-08-30 15:57,South
+College,2022-08-30 16:00,South
+Wellesley,2022-08-30 16:02,South
+Bloor-Yonge,2022-08-30 16:03,South
+Rosedale,2022-08-30 16:05,South
+Summerhill,2022-08-30 16:06,South
+St. Clair,2022-08-30 16:09,South
+Davisville,2022-08-30 16:12,South
+Eglinton,2022-08-30 16:15,South
+Lawrence,2022-08-30 16:18,South
+York Mills,2022-08-30 16:21,South
+Sheppard-Yonge,2022-08-30 16:24,South
+North York Centre,2022-08-30 16:27,South
+Finch,2022-08-30 16:28,South
+Finch,2022-08-30 15:00,North
+North York Centre,2022-08-30 15:01,North
+Sheppard-Yonge,2022-08-30 15:04,North
+York Mills,2022-08-30 15:07,North
+Lawrence,2022-08-30 15:10,North
+Eglinton,2022-08-30 15:13,North
+Davisville,2022-08-30 15:16,North
+St. Clair,2022-08-30 15:19,North
+Summerhill,2022-08-30 15:22,North
+Rosedale,2022-08-30 15:23,North
+Bloor-Yonge,2022-08-30 15:25,North
+Wellesley,2022-08-30 15:26,North
+College,2022-08-30 15:28,North
+Dundas,2022-08-30 15:31,North
+Queen,2022-08-30 15:34,North
+King,2022-08-30 15:37,North
+Union,2022-08-30 15:38,North
+St. Andrew,2022-08-30 15:40,North
+Osgoode,2022-08-30 15:43,North
+St. Patrick,2022-08-30 15:46,North
+Queen's Park,2022-08-30 15:47,North
+Museum,2022-08-30 15:49,North
+St. George,2022-08-30 15:52,North
+Spadina,2022-08-30 15:55,North
+Dupont,2022-08-30 15:57,North
+St. Clair West,2022-08-30 16:00,North
+Eglinton West,2022-08-30 16:03,North
+Glencairn,2022-08-30 16:06,North
+Lawrence West,2022-08-30 16:09,North
+Yorkdale,2022-08-30 16:10,North
+Wilson,2022-08-30 16:11,North
+Sheppard West,2022-08-30 16:14,North
+Downsview Park,2022-08-30 16:17,North
+Finch West,2022-08-30 16:20,North
+York University,2022-08-30 16:23,North
+Pioneer Village,2022-08-30 16:25,North
+Highway 407,2022-08-30 16:27,North
+Vaughan Metropolitan Centre,2022-08-30 16:28,North
+Kipling,2022-08-30 06:00,East
+Islington,2022-08-30 06:03,East
+Royal York,2022-08-30 06:05,East
+Old Mill,2022-08-30 06:06,East
+Jane,2022-08-30 06:09,East
+Runnymede,2022-08-30 06:11,East
+High Park,2022-08-30 06:14,East
+Keele,2022-08-30 06:17,East
+Dundas West,2022-08-30 06:19,East
+Lansdowne,2022-08-30 06:20,East
+Dufferin,2022-08-30 06:22,East
+Ossington,2022-08-30 06:24,East
+Christie,2022-08-30 06:26,East
+Bathurst,2022-08-30 06:27,East
+Spadina,2022-08-30 06:29,East
+St. George,2022-08-30 06:30,East
+Bay,2022-08-30 06:33,East
+Bloor-Yonge,2022-08-30 06:34,East
+Sherbounme,2022-08-30 06:35,East
+Castle Frank,2022-08-30 06:37,East
+Broadview,2022-08-30 06:39,East
+Chester,2022-08-30 06:42,East
+Pape,2022-08-30 06:43,East
+Donlands,2022-08-30 06:45,East
+Greenwood,2022-08-30 06:48,East
+Coxwell,2022-08-30 06:50,East
+Woodbine,2022-08-30 06:52,East
+Main Street,2022-08-30 06:53,East
+Victoria Park,2022-08-30 06:54,East
+Warden,2022-08-30 06:55,East
+Kennedy,2022-08-30 06:57,East
+Kennedy,2022-08-30 06:00,West
+Warden,2022-08-30 06:02,West
+Victoria Park,2022-08-30 06:03,West
+Main Street,2022-08-30 06:04,West
+Woodbine,2022-08-30 06:05,West
+Coxwell,2022-08-30 06:07,West
+Greenwood,2022-08-30 06:09,West
+Donlands,2022-08-30 06:12,West
+Pape,2022-08-30 06:14,West
+Chester,2022-08-30 06:15,West
+Broadview,2022-08-30 06:18,West
+Castle Frank,2022-08-30 06:20,West
+Sherbounme,2022-08-30 06:22,West
+Bloor-Yonge,2022-08-30 06:23,West
+Bay,2022-08-30 06:24,West
+St. George,2022-08-30 06:27,West
+Spadina,2022-08-30 06:28,West
+Bathurst,2022-08-30 06:30,West
+Christie,2022-08-30 06:31,West
+Ossington,2022-08-30 06:33,West
+Dufferin,2022-08-30 06:35,West
+Lansdowne,2022-08-30 06:37,West
+Dundas West,2022-08-30 06:38,West
+Keele,2022-08-30 06:40,West
+High Park,2022-08-30 06:43,West
+Runnymede,2022-08-30 06:46,West
+Jane,2022-08-30 06:48,West
+Old Mill,2022-08-30 06:51,West
+Royal York,2022-08-30 06:52,West
+Islington,2022-08-30 06:54,West
+Kipling,2022-08-30 06:57,West
+Kipling,2022-08-30 07:00,East
+Islington,2022-08-30 07:03,East
+Royal York,2022-08-30 07:05,East
+Old Mill,2022-08-30 07:06,East
+Jane,2022-08-30 07:09,East
+Runnymede,2022-08-30 07:11,East
+High Park,2022-08-30 07:14,East
+Keele,2022-08-30 07:17,East
+Dundas West,2022-08-30 07:19,East
+Lansdowne,2022-08-30 07:20,East
+Dufferin,2022-08-30 07:22,East
+Ossington,2022-08-30 07:24,East
+Christie,2022-08-30 07:26,East
+Bathurst,2022-08-30 07:27,East
+Spadina,2022-08-30 07:29,East
+St. George,2022-08-30 07:30,East
+Bay,2022-08-30 07:33,East
+Bloor-Yonge,2022-08-30 07:34,East
+Sherbounme,2022-08-30 07:35,East
+Castle Frank,2022-08-30 07:37,East
+Broadview,2022-08-30 07:39,East
+Chester,2022-08-30 07:42,East
+Pape,2022-08-30 07:43,East
+Donlands,2022-08-30 07:45,East
+Greenwood,2022-08-30 07:48,East
+Coxwell,2022-08-30 07:50,East
+Woodbine,2022-08-30 07:52,East
+Main Street,2022-08-30 07:53,East
+Victoria Park,2022-08-30 07:54,East
+Warden,2022-08-30 07:55,East
+Kennedy,2022-08-30 07:57,East
+Kennedy,2022-08-30 07:00,West
+Warden,2022-08-30 07:02,West
+Victoria Park,2022-08-30 07:03,West
+Main Street,2022-08-30 07:04,West
+Woodbine,2022-08-30 07:05,West
+Coxwell,2022-08-30 07:07,West
+Greenwood,2022-08-30 07:09,West
+Donlands,2022-08-30 07:12,West
+Pape,2022-08-30 07:14,West
+Chester,2022-08-30 07:15,West
+Broadview,2022-08-30 07:18,West
+Castle Frank,2022-08-30 07:20,West
+Sherbounme,2022-08-30 07:22,West
+Bloor-Yonge,2022-08-30 07:23,West
+Bay,2022-08-30 07:24,West
+St. George,2022-08-30 07:27,West
+Spadina,2022-08-30 07:28,West
+Bathurst,2022-08-30 07:30,West
+Christie,2022-08-30 07:31,West
+Ossington,2022-08-30 07:33,West
+Dufferin,2022-08-30 07:35,West
+Lansdowne,2022-08-30 07:37,West
+Dundas West,2022-08-30 07:38,West
+Keele,2022-08-30 07:40,West
+High Park,2022-08-30 07:43,West
+Runnymede,2022-08-30 07:46,West
+Jane,2022-08-30 07:48,West
+Old Mill,2022-08-30 07:51,West
+Royal York,2022-08-30 07:52,West
+Islington,2022-08-30 07:54,West
+Kipling,2022-08-30 07:57,West
+Kipling,2022-08-30 08:00,East
+Islington,2022-08-30 08:03,East
+Royal York,2022-08-30 08:05,East
+Old Mill,2022-08-30 08:06,East
+Jane,2022-08-30 08:09,East
+Runnymede,2022-08-30 08:11,East
+High Park,2022-08-30 08:14,East
+Keele,2022-08-30 08:17,East
+Dundas West,2022-08-30 08:19,East
+Lansdowne,2022-08-30 08:20,East
+Dufferin,2022-08-30 08:22,East
+Ossington,2022-08-30 08:24,East
+Christie,2022-08-30 08:26,East
+Bathurst,2022-08-30 08:27,East
+Spadina,2022-08-30 08:29,East
+St. George,2022-08-30 08:30,East
+Bay,2022-08-30 08:33,East
+Bloor-Yonge,2022-08-30 08:34,East
+Sherbounme,2022-08-30 08:35,East
+Castle Frank,2022-08-30 08:37,East
+Broadview,2022-08-30 08:39,East
+Chester,2022-08-30 08:42,East
+Pape,2022-08-30 08:43,East
+Donlands,2022-08-30 08:45,East
+Greenwood,2022-08-30 08:48,East
+Coxwell,2022-08-30 08:50,East
+Woodbine,2022-08-30 08:52,East
+Main Street,2022-08-30 08:53,East
+Victoria Park,2022-08-30 08:54,East
+Warden,2022-08-30 08:55,East
+Kennedy,2022-08-30 08:57,East
+Kennedy,2022-08-30 08:00,West
+Warden,2022-08-30 08:02,West
+Victoria Park,2022-08-30 08:03,West
+Main Street,2022-08-30 08:04,West
+Woodbine,2022-08-30 08:05,West
+Coxwell,2022-08-30 08:07,West
+Greenwood,2022-08-30 08:09,West
+Donlands,2022-08-30 08:12,West
+Pape,2022-08-30 08:14,West
+Chester,2022-08-30 08:15,West
+Broadview,2022-08-30 08:18,West
+Castle Frank,2022-08-30 08:20,West
+Sherbounme,2022-08-30 08:22,West
+Bloor-Yonge,2022-08-30 08:23,West
+Bay,2022-08-30 08:24,West
+St. George,2022-08-30 08:27,West
+Spadina,2022-08-30 08:28,West
+Bathurst,2022-08-30 08:30,West
+Christie,2022-08-30 08:31,West
+Ossington,2022-08-30 08:33,West
+Dufferin,2022-08-30 08:35,West
+Lansdowne,2022-08-30 08:37,West
+Dundas West,2022-08-30 08:38,West
+Keele,2022-08-30 08:40,West
+High Park,2022-08-30 08:43,West
+Runnymede,2022-08-30 08:46,West
+Jane,2022-08-30 08:48,West
+Old Mill,2022-08-30 08:51,West
+Royal York,2022-08-30 08:52,West
+Islington,2022-08-30 08:54,West
+Kipling,2022-08-30 08:57,West
+Kipling,2022-08-30 09:00,East
+Islington,2022-08-30 09:03,East
+Royal York,2022-08-30 09:05,East
+Old Mill,2022-08-30 09:06,East
+Jane,2022-08-30 09:09,East
+Runnymede,2022-08-30 09:11,East
+High Park,2022-08-30 09:14,East
+Keele,2022-08-30 09:17,East
+Dundas West,2022-08-30 09:19,East
+Lansdowne,2022-08-30 09:20,East
+Dufferin,2022-08-30 09:22,East
+Ossington,2022-08-30 09:24,East
+Christie,2022-08-30 09:26,East
+Bathurst,2022-08-30 09:27,East
+Spadina,2022-08-30 09:29,East
+St. George,2022-08-30 09:30,East
+Bay,2022-08-30 09:33,East
+Bloor-Yonge,2022-08-30 09:34,East
+Sherbounme,2022-08-30 09:35,East
+Castle Frank,2022-08-30 09:37,East
+Broadview,2022-08-30 09:39,East
+Chester,2022-08-30 09:42,East
+Pape,2022-08-30 09:43,East
+Donlands,2022-08-30 09:45,East
+Greenwood,2022-08-30 09:48,East
+Coxwell,2022-08-30 09:50,East
+Woodbine,2022-08-30 09:52,East
+Main Street,2022-08-30 09:53,East
+Victoria Park,2022-08-30 09:54,East
+Warden,2022-08-30 09:55,East
+Kennedy,2022-08-30 09:57,East
+Kennedy,2022-08-30 09:00,West
+Warden,2022-08-30 09:02,West
+Victoria Park,2022-08-30 09:03,West
+Main Street,2022-08-30 09:04,West
+Woodbine,2022-08-30 09:05,West
+Coxwell,2022-08-30 09:07,West
+Greenwood,2022-08-30 09:09,West
+Donlands,2022-08-30 09:12,West
+Pape,2022-08-30 09:14,West
+Chester,2022-08-30 09:15,West
+Broadview,2022-08-30 09:18,West
+Castle Frank,2022-08-30 09:20,West
+Sherbounme,2022-08-30 09:22,West
+Bloor-Yonge,2022-08-30 09:23,West
+Bay,2022-08-30 09:24,West
+St. George,2022-08-30 09:27,West
+Spadina,2022-08-30 09:28,West
+Bathurst,2022-08-30 09:30,West
+Christie,2022-08-30 09:31,West
+Ossington,2022-08-30 09:33,West
+Dufferin,2022-08-30 09:35,West
+Lansdowne,2022-08-30 09:37,West
+Dundas West,2022-08-30 09:38,West
+Keele,2022-08-30 09:40,West
+High Park,2022-08-30 09:43,West
+Runnymede,2022-08-30 09:46,West
+Jane,2022-08-30 09:48,West
+Old Mill,2022-08-30 09:51,West
+Royal York,2022-08-30 09:52,West
+Islington,2022-08-30 09:54,West
+Kipling,2022-08-30 09:57,West
+Kipling,2022-08-30 10:00,East
+Islington,2022-08-30 10:03,East
+Royal York,2022-08-30 10:05,East
+Old Mill,2022-08-30 10:06,East
+Jane,2022-08-30 10:09,East
+Runnymede,2022-08-30 10:11,East
+High Park,2022-08-30 10:14,East
+Keele,2022-08-30 10:17,East
+Dundas West,2022-08-30 10:19,East
+Lansdowne,2022-08-30 10:20,East
+Dufferin,2022-08-30 10:22,East
+Ossington,2022-08-30 10:24,East
+Christie,2022-08-30 10:26,East
+Bathurst,2022-08-30 10:27,East
+Spadina,2022-08-30 10:29,East
+St. George,2022-08-30 10:30,East
+Bay,2022-08-30 10:33,East
+Bloor-Yonge,2022-08-30 10:34,East
+Sherbounme,2022-08-30 10:35,East
+Castle Frank,2022-08-30 10:37,East
+Broadview,2022-08-30 10:39,East
+Chester,2022-08-30 10:42,East
+Pape,2022-08-30 10:43,East
+Donlands,2022-08-30 10:45,East
+Greenwood,2022-08-30 10:48,East
+Coxwell,2022-08-30 10:50,East
+Woodbine,2022-08-30 10:52,East
+Main Street,2022-08-30 10:53,East
+Victoria Park,2022-08-30 10:54,East
+Warden,2022-08-30 10:55,East
+Kennedy,2022-08-30 10:57,East
+Kennedy,2022-08-30 10:00,West
+Warden,2022-08-30 10:02,West
+Victoria Park,2022-08-30 10:03,West
+Main Street,2022-08-30 10:04,West
+Woodbine,2022-08-30 10:05,West
+Coxwell,2022-08-30 10:07,West
+Greenwood,2022-08-30 10:09,West
+Donlands,2022-08-30 10:12,West
+Pape,2022-08-30 10:14,West
+Chester,2022-08-30 10:15,West
+Broadview,2022-08-30 10:18,West
+Castle Frank,2022-08-30 10:20,West
+Sherbounme,2022-08-30 10:22,West
+Bloor-Yonge,2022-08-30 10:23,West
+Bay,2022-08-30 10:24,West
+St. George,2022-08-30 10:27,West
+Spadina,2022-08-30 10:28,West
+Bathurst,2022-08-30 10:30,West
+Christie,2022-08-30 10:31,West
+Ossington,2022-08-30 10:33,West
+Dufferin,2022-08-30 10:35,West
+Lansdowne,2022-08-30 10:37,West
+Dundas West,2022-08-30 10:38,West
+Keele,2022-08-30 10:40,West
+High Park,2022-08-30 10:43,West
+Runnymede,2022-08-30 10:46,West
+Jane,2022-08-30 10:48,West
+Old Mill,2022-08-30 10:51,West
+Royal York,2022-08-30 10:52,West
+Islington,2022-08-30 10:54,West
+Kipling,2022-08-30 10:57,West
+Kipling,2022-08-30 11:00,East
+Islington,2022-08-30 11:03,East
+Royal York,2022-08-30 11:05,East
+Old Mill,2022-08-30 11:06,East
+Jane,2022-08-30 11:09,East
+Runnymede,2022-08-30 11:11,East
+High Park,2022-08-30 11:14,East
+Keele,2022-08-30 11:17,East
+Dundas West,2022-08-30 11:19,East
+Lansdowne,2022-08-30 11:20,East
+Dufferin,2022-08-30 11:22,East
+Ossington,2022-08-30 11:24,East
+Christie,2022-08-30 11:26,East
+Bathurst,2022-08-30 11:27,East
+Spadina,2022-08-30 11:29,East
+St. George,2022-08-30 11:30,East
+Bay,2022-08-30 11:33,East
+Bloor-Yonge,2022-08-30 11:34,East
+Sherbounme,2022-08-30 11:35,East
+Castle Frank,2022-08-30 11:37,East
+Broadview,2022-08-30 11:39,East
+Chester,2022-08-30 11:42,East
+Pape,2022-08-30 11:43,East
+Donlands,2022-08-30 11:45,East
+Greenwood,2022-08-30 11:48,East
+Coxwell,2022-08-30 11:50,East
+Woodbine,2022-08-30 11:52,East
+Main Street,2022-08-30 11:53,East
+Victoria Park,2022-08-30 11:54,East
+Warden,2022-08-30 11:55,East
+Kennedy,2022-08-30 11:57,East
+Kennedy,2022-08-30 11:00,West
+Warden,2022-08-30 11:02,West
+Victoria Park,2022-08-30 11:03,West
+Main Street,2022-08-30 11:04,West
+Woodbine,2022-08-30 11:05,West
+Coxwell,2022-08-30 11:07,West
+Greenwood,2022-08-30 11:09,West
+Donlands,2022-08-30 11:12,West
+Pape,2022-08-30 11:14,West
+Chester,2022-08-30 11:15,West
+Broadview,2022-08-30 11:18,West
+Castle Frank,2022-08-30 11:20,West
+Sherbounme,2022-08-30 11:22,West
+Bloor-Yonge,2022-08-30 11:23,West
+Bay,2022-08-30 11:24,West
+St. George,2022-08-30 11:27,West
+Spadina,2022-08-30 11:28,West
+Bathurst,2022-08-30 11:30,West
+Christie,2022-08-30 11:31,West
+Ossington,2022-08-30 11:33,West
+Dufferin,2022-08-30 11:35,West
+Lansdowne,2022-08-30 11:37,West
+Dundas West,2022-08-30 11:38,West
+Keele,2022-08-30 11:40,West
+High Park,2022-08-30 11:43,West
+Runnymede,2022-08-30 11:46,West
+Jane,2022-08-30 11:48,West
+Old Mill,2022-08-30 11:51,West
+Royal York,2022-08-30 11:52,West
+Islington,2022-08-30 11:54,West
+Kipling,2022-08-30 11:57,West
+Kipling,2022-08-30 12:00,East
+Islington,2022-08-30 12:03,East
+Royal York,2022-08-30 12:05,East
+Old Mill,2022-08-30 12:06,East
+Jane,2022-08-30 12:09,East
+Runnymede,2022-08-30 12:11,East
+High Park,2022-08-30 12:14,East
+Keele,2022-08-30 12:17,East
+Dundas West,2022-08-30 12:19,East
+Lansdowne,2022-08-30 12:20,East
+Dufferin,2022-08-30 12:22,East
+Ossington,2022-08-30 12:24,East
+Christie,2022-08-30 12:26,East
+Bathurst,2022-08-30 12:27,East
+Spadina,2022-08-30 12:29,East
+St. George,2022-08-30 12:30,East
+Bay,2022-08-30 12:33,East
+Bloor-Yonge,2022-08-30 12:34,East
+Sherbounme,2022-08-30 12:35,East
+Castle Frank,2022-08-30 12:37,East
+Broadview,2022-08-30 12:39,East
+Chester,2022-08-30 12:42,East
+Pape,2022-08-30 12:43,East
+Donlands,2022-08-30 12:45,East
+Greenwood,2022-08-30 12:48,East
+Coxwell,2022-08-30 12:50,East
+Woodbine,2022-08-30 12:52,East
+Main Street,2022-08-30 12:53,East
+Victoria Park,2022-08-30 12:54,East
+Warden,2022-08-30 12:55,East
+Kennedy,2022-08-30 12:57,East
+Kennedy,2022-08-30 12:00,West
+Warden,2022-08-30 12:02,West
+Victoria Park,2022-08-30 12:03,West
+Main Street,2022-08-30 12:04,West
+Woodbine,2022-08-30 12:05,West
+Coxwell,2022-08-30 12:07,West
+Greenwood,2022-08-30 12:09,West
+Donlands,2022-08-30 12:12,West
+Pape,2022-08-30 12:14,West
+Chester,2022-08-30 12:15,West
+Broadview,2022-08-30 12:18,West
+Castle Frank,2022-08-30 12:20,West
+Sherbounme,2022-08-30 12:22,West
+Bloor-Yonge,2022-08-30 12:23,West
+Bay,2022-08-30 12:24,West
+St. George,2022-08-30 12:27,West
+Spadina,2022-08-30 12:28,West
+Bathurst,2022-08-30 12:30,West
+Christie,2022-08-30 12:31,West
+Ossington,2022-08-30 12:33,West
+Dufferin,2022-08-30 12:35,West
+Lansdowne,2022-08-30 12:37,West
+Dundas West,2022-08-30 12:38,West
+Keele,2022-08-30 12:40,West
+High Park,2022-08-30 12:43,West
+Runnymede,2022-08-30 12:46,West
+Jane,2022-08-30 12:48,West
+Old Mill,2022-08-30 12:51,West
+Royal York,2022-08-30 12:52,West
+Islington,2022-08-30 12:54,West
+Kipling,2022-08-30 12:57,West
+Kipling,2022-08-30 13:00,East
+Islington,2022-08-30 13:03,East
+Royal York,2022-08-30 13:05,East
+Old Mill,2022-08-30 13:06,East
+Jane,2022-08-30 13:09,East
+Runnymede,2022-08-30 13:11,East
+High Park,2022-08-30 13:14,East
+Keele,2022-08-30 13:17,East
+Dundas West,2022-08-30 13:19,East
+Lansdowne,2022-08-30 13:20,East
+Dufferin,2022-08-30 13:22,East
+Ossington,2022-08-30 13:24,East
+Christie,2022-08-30 13:26,East
+Bathurst,2022-08-30 13:27,East
+Spadina,2022-08-30 13:29,East
+St. George,2022-08-30 13:30,East
+Bay,2022-08-30 13:33,East
+Bloor-Yonge,2022-08-30 13:34,East
+Sherbounme,2022-08-30 13:35,East
+Castle Frank,2022-08-30 13:37,East
+Broadview,2022-08-30 13:39,East
+Chester,2022-08-30 13:42,East
+Pape,2022-08-30 13:43,East
+Donlands,2022-08-30 13:45,East
+Greenwood,2022-08-30 13:48,East
+Coxwell,2022-08-30 13:50,East
+Woodbine,2022-08-30 13:52,East
+Main Street,2022-08-30 13:53,East
+Victoria Park,2022-08-30 13:54,East
+Warden,2022-08-30 13:55,East
+Kennedy,2022-08-30 13:57,East
+Kennedy,2022-08-30 13:00,West
+Warden,2022-08-30 13:02,West
+Victoria Park,2022-08-30 13:03,West
+Main Street,2022-08-30 13:04,West
+Woodbine,2022-08-30 13:05,West
+Coxwell,2022-08-30 13:07,West
+Greenwood,2022-08-30 13:09,West
+Donlands,2022-08-30 13:12,West
+Pape,2022-08-30 13:14,West
+Chester,2022-08-30 13:15,West
+Broadview,2022-08-30 13:18,West
+Castle Frank,2022-08-30 13:20,West
+Sherbounme,2022-08-30 13:22,West
+Bloor-Yonge,2022-08-30 13:23,West
+Bay,2022-08-30 13:24,West
+St. George,2022-08-30 13:27,West
+Spadina,2022-08-30 13:28,West
+Bathurst,2022-08-30 13:30,West
+Christie,2022-08-30 13:31,West
+Ossington,2022-08-30 13:33,West
+Dufferin,2022-08-30 13:35,West
+Lansdowne,2022-08-30 13:37,West
+Dundas West,2022-08-30 13:38,West
+Keele,2022-08-30 13:40,West
+High Park,2022-08-30 13:43,West
+Runnymede,2022-08-30 13:46,West
+Jane,2022-08-30 13:48,West
+Old Mill,2022-08-30 13:51,West
+Royal York,2022-08-30 13:52,West
+Islington,2022-08-30 13:54,West
+Kipling,2022-08-30 13:57,West
+Kipling,2022-08-30 14:00,East
+Islington,2022-08-30 14:03,East
+Royal York,2022-08-30 14:05,East
+Old Mill,2022-08-30 14:06,East
+Jane,2022-08-30 14:09,East
+Runnymede,2022-08-30 14:11,East
+High Park,2022-08-30 14:14,East
+Keele,2022-08-30 14:17,East
+Dundas West,2022-08-30 14:19,East
+Lansdowne,2022-08-30 14:20,East
+Dufferin,2022-08-30 14:22,East
+Ossington,2022-08-30 14:24,East
+Christie,2022-08-30 14:26,East
+Bathurst,2022-08-30 14:27,East
+Spadina,2022-08-30 14:29,East
+St. George,2022-08-30 14:30,East
+Bay,2022-08-30 14:33,East
+Bloor-Yonge,2022-08-30 14:34,East
+Sherbounme,2022-08-30 14:35,East
+Castle Frank,2022-08-30 14:37,East
+Broadview,2022-08-30 14:39,East
+Chester,2022-08-30 14:42,East
+Pape,2022-08-30 14:43,East
+Donlands,2022-08-30 14:45,East
+Greenwood,2022-08-30 14:48,East
+Coxwell,2022-08-30 14:50,East
+Woodbine,2022-08-30 14:52,East
+Main Street,2022-08-30 14:53,East
+Victoria Park,2022-08-30 14:54,East
+Warden,2022-08-30 14:55,East
+Kennedy,2022-08-30 14:57,East
+Kennedy,2022-08-30 14:00,West
+Warden,2022-08-30 14:02,West
+Victoria Park,2022-08-30 14:03,West
+Main Street,2022-08-30 14:04,West
+Woodbine,2022-08-30 14:05,West
+Coxwell,2022-08-30 14:07,West
+Greenwood,2022-08-30 14:09,West
+Donlands,2022-08-30 14:12,West
+Pape,2022-08-30 14:14,West
+Chester,2022-08-30 14:15,West
+Broadview,2022-08-30 14:18,West
+Castle Frank,2022-08-30 14:20,West
+Sherbounme,2022-08-30 14:22,West
+Bloor-Yonge,2022-08-30 14:23,West
+Bay,2022-08-30 14:24,West
+St. George,2022-08-30 14:27,West
+Spadina,2022-08-30 14:28,West
+Bathurst,2022-08-30 14:30,West
+Christie,2022-08-30 14:31,West
+Ossington,2022-08-30 14:33,West
+Dufferin,2022-08-30 14:35,West
+Lansdowne,2022-08-30 14:37,West
+Dundas West,2022-08-30 14:38,West
+Keele,2022-08-30 14:40,West
+High Park,2022-08-30 14:43,West
+Runnymede,2022-08-30 14:46,West
+Jane,2022-08-30 14:48,West
+Old Mill,2022-08-30 14:51,West
+Royal York,2022-08-30 14:52,West
+Islington,2022-08-30 14:54,West
+Kipling,2022-08-30 14:57,West
+Kipling,2022-08-30 15:00,East
+Islington,2022-08-30 15:03,East
+Royal York,2022-08-30 15:05,East
+Old Mill,2022-08-30 15:06,East
+Jane,2022-08-30 15:09,East
+Runnymede,2022-08-30 15:11,East
+High Park,2022-08-30 15:14,East
+Keele,2022-08-30 15:17,East
+Dundas West,2022-08-30 15:19,East
+Lansdowne,2022-08-30 15:20,East
+Dufferin,2022-08-30 15:22,East
+Ossington,2022-08-30 15:24,East
+Christie,2022-08-30 15:26,East
+Bathurst,2022-08-30 15:27,East
+Spadina,2022-08-30 15:29,East
+St. George,2022-08-30 15:30,East
+Bay,2022-08-30 15:33,East
+Bloor-Yonge,2022-08-30 15:34,East
+Sherbounme,2022-08-30 15:35,East
+Castle Frank,2022-08-30 15:37,East
+Broadview,2022-08-30 15:39,East
+Chester,2022-08-30 15:42,East
+Pape,2022-08-30 15:43,East
+Donlands,2022-08-30 15:45,East
+Greenwood,2022-08-30 15:48,East
+Coxwell,2022-08-30 15:50,East
+Woodbine,2022-08-30 15:52,East
+Main Street,2022-08-30 15:53,East
+Victoria Park,2022-08-30 15:54,East
+Warden,2022-08-30 15:55,East
+Kennedy,2022-08-30 15:57,East
+Kennedy,2022-08-30 15:00,West
+Warden,2022-08-30 15:02,West
+Victoria Park,2022-08-30 15:03,West
+Main Street,2022-08-30 15:04,West
+Woodbine,2022-08-30 15:05,West
+Coxwell,2022-08-30 15:07,West
+Greenwood,2022-08-30 15:09,West
+Donlands,2022-08-30 15:12,West
+Pape,2022-08-30 15:14,West
+Chester,2022-08-30 15:15,West
+Broadview,2022-08-30 15:18,West
+Castle Frank,2022-08-30 15:20,West
+Sherbounme,2022-08-30 15:22,West
+Bloor-Yonge,2022-08-30 15:23,West
+Bay,2022-08-30 15:24,West
+St. George,2022-08-30 15:27,West
+Spadina,2022-08-30 15:28,West
+Bathurst,2022-08-30 15:30,West
+Christie,2022-08-30 15:31,West
+Ossington,2022-08-30 15:33,West
+Dufferin,2022-08-30 15:35,West
+Lansdowne,2022-08-30 15:37,West
+Dundas West,2022-08-30 15:38,West
+Keele,2022-08-30 15:40,West
+High Park,2022-08-30 15:43,West
+Runnymede,2022-08-30 15:46,West
+Jane,2022-08-30 15:48,West
+Old Mill,2022-08-30 15:51,West
+Royal York,2022-08-30 15:52,West
+Islington,2022-08-30 15:54,West
+Kipling,2022-08-30 15:57,West
+McCowan,2022-08-30 06:00,South
+Scarborough Centre,2022-08-30 06:03,South
+Midland,2022-08-30 06:05,South
+Ellesmere,2022-08-30 06:06,South
+Lawrence East,2022-08-30 06:09,South
+Kennedy,2022-08-30 06:11,South
+Kennedy,2022-08-30 06:00,North
+Lawrence East,2022-08-30 06:02,North
+Ellesmere,2022-08-30 06:05,North
+Midland,2022-08-30 06:06,North
+Scarborough Centre,2022-08-30 06:08,North
+McCowan,2022-08-30 06:11,North
+McCowan,2022-08-30 07:00,South
+Scarborough Centre,2022-08-30 07:03,South
+Midland,2022-08-30 07:05,South
+Ellesmere,2022-08-30 07:06,South
+Lawrence East,2022-08-30 07:09,South
+Kennedy,2022-08-30 07:11,South
+Kennedy,2022-08-30 07:00,North
+Lawrence East,2022-08-30 07:02,North
+Ellesmere,2022-08-30 07:05,North
+Midland,2022-08-30 07:06,North
+Scarborough Centre,2022-08-30 07:08,North
+McCowan,2022-08-30 07:11,North
+McCowan,2022-08-30 08:00,South
+Scarborough Centre,2022-08-30 08:03,South
+Midland,2022-08-30 08:05,South
+Ellesmere,2022-08-30 08:06,South
+Lawrence East,2022-08-30 08:09,South
+Kennedy,2022-08-30 08:11,South
+Kennedy,2022-08-30 08:00,North
+Lawrence East,2022-08-30 08:02,North
+Ellesmere,2022-08-30 08:05,North
+Midland,2022-08-30 08:06,North
+Scarborough Centre,2022-08-30 08:08,North
+McCowan,2022-08-30 08:11,North
+McCowan,2022-08-30 09:00,South
+Scarborough Centre,2022-08-30 09:03,South
+Midland,2022-08-30 09:05,South
+Ellesmere,2022-08-30 09:06,South
+Lawrence East,2022-08-30 09:09,South
+Kennedy,2022-08-30 09:11,South
+Kennedy,2022-08-30 09:00,North
+Lawrence East,2022-08-30 09:02,North
+Ellesmere,2022-08-30 09:05,North
+Midland,2022-08-30 09:06,North
+Scarborough Centre,2022-08-30 09:08,North
+McCowan,2022-08-30 09:11,North
+McCowan,2022-08-30 10:00,South
+Scarborough Centre,2022-08-30 10:03,South
+Midland,2022-08-30 10:05,South
+Ellesmere,2022-08-30 10:06,South
+Lawrence East,2022-08-30 10:09,South
+Kennedy,2022-08-30 10:11,South
+Kennedy,2022-08-30 10:00,North
+Lawrence East,2022-08-30 10:02,North
+Ellesmere,2022-08-30 10:05,North
+Midland,2022-08-30 10:06,North
+Scarborough Centre,2022-08-30 10:08,North
+McCowan,2022-08-30 10:11,North
+McCowan,2022-08-30 11:00,South
+Scarborough Centre,2022-08-30 11:03,South
+Midland,2022-08-30 11:05,South
+Ellesmere,2022-08-30 11:06,South
+Lawrence East,2022-08-30 11:09,South
+Kennedy,2022-08-30 11:11,South
+Kennedy,2022-08-30 11:00,North
+Lawrence East,2022-08-30 11:02,North
+Ellesmere,2022-08-30 11:05,North
+Midland,2022-08-30 11:06,North
+Scarborough Centre,2022-08-30 11:08,North
+McCowan,2022-08-30 11:11,North
+McCowan,2022-08-30 12:00,South
+Scarborough Centre,2022-08-30 12:03,South
+Midland,2022-08-30 12:05,South
+Ellesmere,2022-08-30 12:06,South
+Lawrence East,2022-08-30 12:09,South
+Kennedy,2022-08-30 12:11,South
+Kennedy,2022-08-30 12:00,North
+Lawrence East,2022-08-30 12:02,North
+Ellesmere,2022-08-30 12:05,North
+Midland,2022-08-30 12:06,North
+Scarborough Centre,2022-08-30 12:08,North
+McCowan,2022-08-30 12:11,North
+McCowan,2022-08-30 13:00,South
+Scarborough Centre,2022-08-30 13:03,South
+Midland,2022-08-30 13:05,South
+Ellesmere,2022-08-30 13:06,South
+Lawrence East,2022-08-30 13:09,South
+Kennedy,2022-08-30 13:11,South
+Kennedy,2022-08-30 13:00,North
+Lawrence East,2022-08-30 13:02,North
+Ellesmere,2022-08-30 13:05,North
+Midland,2022-08-30 13:06,North
+Scarborough Centre,2022-08-30 13:08,North
+McCowan,2022-08-30 13:11,North
+McCowan,2022-08-30 14:00,South
+Scarborough Centre,2022-08-30 14:03,South
+Midland,2022-08-30 14:05,South
+Ellesmere,2022-08-30 14:06,South
+Lawrence East,2022-08-30 14:09,South
+Kennedy,2022-08-30 14:11,South
+Kennedy,2022-08-30 14:00,North
+Lawrence East,2022-08-30 14:02,North
+Ellesmere,2022-08-30 14:05,North
+Midland,2022-08-30 14:06,North
+Scarborough Centre,2022-08-30 14:08,North
+McCowan,2022-08-30 14:11,North
+McCowan,2022-08-30 15:00,South
+Scarborough Centre,2022-08-30 15:03,South
+Midland,2022-08-30 15:05,South
+Ellesmere,2022-08-30 15:06,South
+Lawrence East,2022-08-30 15:09,South
+Kennedy,2022-08-30 15:11,South
+Kennedy,2022-08-30 15:00,North
+Lawrence East,2022-08-30 15:02,North
+Ellesmere,2022-08-30 15:05,North
+Midland,2022-08-30 15:06,North
+Scarborough Centre,2022-08-30 15:08,North
+McCowan,2022-08-30 15:11,North
+Sheppard-Yonge,2022-08-30 06:00,East
+Bayview,2022-08-30 06:03,East
+Bessarion,2022-08-30 06:06,East
+Leslie,2022-08-30 06:09,East
+Don Mills,2022-08-30 06:10,East
+Don Mills,2022-08-30 06:00,West
+Leslie,2022-08-30 06:01,West
+Bessarion,2022-08-30 06:04,West
+Bayview,2022-08-30 06:07,West
+Sheppard-Yonge,2022-08-30 06:10,West
+Sheppard-Yonge,2022-08-30 07:00,East
+Bayview,2022-08-30 07:03,East
+Bessarion,2022-08-30 07:06,East
+Leslie,2022-08-30 07:09,East
+Don Mills,2022-08-30 07:10,East
+Don Mills,2022-08-30 07:00,West
+Leslie,2022-08-30 07:01,West
+Bessarion,2022-08-30 07:04,West
+Bayview,2022-08-30 07:07,West
+Sheppard-Yonge,2022-08-30 07:10,West
+Sheppard-Yonge,2022-08-30 08:00,East
+Bayview,2022-08-30 08:03,East
+Bessarion,2022-08-30 08:06,East
+Leslie,2022-08-30 08:09,East
+Don Mills,2022-08-30 08:10,East
+Don Mills,2022-08-30 08:00,West
+Leslie,2022-08-30 08:01,West
+Bessarion,2022-08-30 08:04,West
+Bayview,2022-08-30 08:07,West
+Sheppard-Yonge,2022-08-30 08:10,West
+Sheppard-Yonge,2022-08-30 09:00,East
+Bayview,2022-08-30 09:03,East
+Bessarion,2022-08-30 09:06,East
+Leslie,2022-08-30 09:09,East
+Don Mills,2022-08-30 09:10,East
+Don Mills,2022-08-30 09:00,West
+Leslie,2022-08-30 09:01,West
+Bessarion,2022-08-30 09:04,West
+Bayview,2022-08-30 09:07,West
+Sheppard-Yonge,2022-08-30 09:10,West
+Sheppard-Yonge,2022-08-30 10:00,East
+Bayview,2022-08-30 10:03,East
+Bessarion,2022-08-30 10:06,East
+Leslie,2022-08-30 10:09,East
+Don Mills,2022-08-30 10:10,East
+Don Mills,2022-08-30 10:00,West
+Leslie,2022-08-30 10:01,West
+Bessarion,2022-08-30 10:04,West
+Bayview,2022-08-30 10:07,West
+Sheppard-Yonge,2022-08-30 10:10,West
+Sheppard-Yonge,2022-08-30 11:00,East
+Bayview,2022-08-30 11:03,East
+Bessarion,2022-08-30 11:06,East
+Leslie,2022-08-30 11:09,East
+Don Mills,2022-08-30 11:10,East
+Don Mills,2022-08-30 11:00,West
+Leslie,2022-08-30 11:01,West
+Bessarion,2022-08-30 11:04,West
+Bayview,2022-08-30 11:07,West
+Sheppard-Yonge,2022-08-30 11:10,West
+Sheppard-Yonge,2022-08-30 12:00,East
+Bayview,2022-08-30 12:03,East
+Bessarion,2022-08-30 12:06,East
+Leslie,2022-08-30 12:09,East
+Don Mills,2022-08-30 12:10,East
+Don Mills,2022-08-30 12:00,West
+Leslie,2022-08-30 12:01,West
+Bessarion,2022-08-30 12:04,West
+Bayview,2022-08-30 12:07,West
+Sheppard-Yonge,2022-08-30 12:10,West
+Sheppard-Yonge,2022-08-30 13:00,East
+Bayview,2022-08-30 13:03,East
+Bessarion,2022-08-30 13:06,East
+Leslie,2022-08-30 13:09,East
+Don Mills,2022-08-30 13:10,East
+Don Mills,2022-08-30 13:00,West
+Leslie,2022-08-30 13:01,West
+Bessarion,2022-08-30 13:04,West
+Bayview,2022-08-30 13:07,West
+Sheppard-Yonge,2022-08-30 13:10,West
+Sheppard-Yonge,2022-08-30 14:00,East
+Bayview,2022-08-30 14:03,East
+Bessarion,2022-08-30 14:06,East
+Leslie,2022-08-30 14:09,East
+Don Mills,2022-08-30 14:10,East
+Don Mills,2022-08-30 14:00,West
+Leslie,2022-08-30 14:01,West
+Bessarion,2022-08-30 14:04,West
+Bayview,2022-08-30 14:07,West
+Sheppard-Yonge,2022-08-30 14:10,West
+Sheppard-Yonge,2022-08-30 15:00,East
+Bayview,2022-08-30 15:03,East
+Bessarion,2022-08-30 15:06,East
+Leslie,2022-08-30 15:09,East
+Don Mills,2022-08-30 15:10,East
+Don Mills,2022-08-30 15:00,West
+Leslie,2022-08-30 15:01,West
+Bessarion,2022-08-30 15:04,West
+Bayview,2022-08-30 15:07,West
+Sheppard-Yonge,2022-08-30 15:10,West
