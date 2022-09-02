@@ -14,7 +14,7 @@ Input data will provide all arrival time to a particular station at each corresp
 txt file consists of multiple lines: Station Name,Arrival Time,Direction 
 ie, Vaughan Metropolitan Centre,2022-08-30 07:00,South
 
-## Assumption
+## Assumptions
 1. trains only start from terminal stations
 2. the train will only follow one direction (ie, a train going south from Finch will only go south and will not go backwards)
 3. a train will only traverse in a line (a train in line 1 will always stay in line 1 and will not traverse to another line, except for the common stations shared between lines)
