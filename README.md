@@ -19,3 +19,7 @@ ie, Vaughan Metropolitan Centre,2022-08-30 07:00,South
 2. the train will only follow one direction (ie, a train going south from Finch will only go south and will not go backwards)
 3. a train will only traverse in a line (a train in line 1 will always stay in line 1 and will not traverse to another line, except for the common stations shared between lines)
 4. trains will not arrive any station at the same time, given they are in the same direction
+
+## Environment
+- Dev: IntelliJ
+- JDK: 1.8
