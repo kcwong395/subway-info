@@ -22,7 +22,7 @@ public class Station {
     }
 
     /*
-     * Time Complexity: O(logN) where N is the total number of train that arrive at this station with the indicated dir.
+     * Time Complexity: O(N) for insertion where N is the total number of train that arrive at this station with the indicated dir.
      */
     /**
      * Return the inserted index to the train schedule. <strong>The list must be maintained in a sorted order such that
