@@ -4,6 +4,7 @@ import solution.util.Parser;
 
 import java.text.MessageFormat;
 import java.time.LocalDateTime;
+import java.time.format.DateTimeParseException;
 import java.util.*;
 import java.util.stream.Collectors;
 
@@ -32,6 +33,10 @@ public class Station {
      * @throws IllegalArgumentException when it violates the assumption that trains will not arrive at the same time.
      */
     public void addSchedule(Train t) {
+        if(t == null) {
+            return;
+        }
+
         Direction dir = t.getDirection();
         schedule.putIfAbsent(dir, new ArrayList<>());
         List<Train> curSchedule = schedule.get(dir);
@@ -52,11 +57,15 @@ public class Station {
      *
      * @param   time    the desired time.
      * @param   dir     the desired direction.
-     * @return  the next {@code Train}, {@code null} if there is no
-     * train coming after {@code time}.
-     * @throws IllegalArgumentException when the specified direction is not available for that station
+     * @return  the next {@code Train}, {@code null} if there is no train coming after {@code time} or the input
+     * {@code time}, {@code dir} is null.
+     * @throws IllegalArgumentException if {@code dir} is not available for that station
      */
     public Train getNextTrain(LocalDateTime time, Direction dir) {
+        if(time == null || dir == null) {
+            return null;
+        }
+
         if(!schedule.containsKey(dir)) {
             throw new IllegalArgumentException(MessageFormat.format("{0} train is not available at {1}", dir.toString(), stationName));
         }
@@ -80,11 +89,15 @@ public class Station {
      *
      * @param   time    the desired time.
      * @param   dir     the desired direction.
-     * @return  the next {@code Train} in string format
+     * @return  the next {@code Train} in string format, null when {@code time} or {@code dir} is null
      */
     public String getNextTrain(String time, Direction dir) {
-        LocalDateTime converted = LocalDateTime.parse(time, Parser.FORMATTER);
+        if(time == null || dir == null) {
+            return null;
+        }
+
         try {
+            LocalDateTime converted = LocalDateTime.parse(time, Parser.FORMATTER);
             Train next = getNextTrain(converted, dir);
             if(next == null) {
                 return "No train available for the request time.";
@@ -92,6 +105,8 @@ public class Station {
             return next.toString();
         } catch (IllegalArgumentException e) {
             return e.getMessage();
+        } catch (DateTimeParseException e) {
+            return "Invalid date time format";
         }
     }
 

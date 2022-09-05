@@ -5,6 +5,7 @@ import solution.util.Generator;
 import solution.util.Parser;
 
 import java.time.LocalDateTime;
+import java.time.format.DateTimeParseException;
 import java.util.List;
 import java.util.Map;
 
@@ -50,6 +51,20 @@ class StationTest {
     }
 
     @Test
+    void addScheduleNull() {
+        Station donMills = stations.get("Don Mills");
+        assertNotNull(donMills);
+
+        Train t = null;
+
+        int originalSize = donMills.getSchedule().size();
+
+        assertDoesNotThrow(() -> donMills.addSchedule(t));
+
+        assertEquals(originalSize, donMills.getSchedule().size());
+    }
+
+    @Test
     void getNextTrainNoDir() {
         Station dundas = stations.get("Dundas");
         assertNotNull(dundas);
@@ -66,6 +81,13 @@ class StationTest {
         assertNotNull(dundas);
         assertNull(dundas.getNextTrain(LocalDateTime.parse("2022-08-30 22:38", Parser.FORMATTER), Direction.NORTH));
         assertNotNull(dundas.getNextTrain(LocalDateTime.parse("2022-08-30 08:38", Parser.FORMATTER), Direction.NORTH));
+    }
+
+    @Test
+    void getNextTrainNull() {
+        Station dundas = stations.get("Dundas");
+        assertNotNull(dundas);
+        assertNull(dundas.getNextTrain(LocalDateTime.parse("2022-08-30 22:38", Parser.FORMATTER), null));
     }
 
     @Test
@@ -99,6 +121,20 @@ class StationTest {
         Station dundas = stations.get("Dundas");
         assertNotNull(dundas);
         assertEquals("No train available for the request time.", dundas.getNextTrain("2022-08-30 21:20", Direction.NORTH));
+    }
+
+    @Test
+    void testGetNextTrainNull() {
+        Station donMills = stations.get("Don Mills");
+        assertNotNull(donMills);
+        assertNull(donMills.getNextTrain("2022-08-30 10:12", null));
+    }
+
+    @Test
+    void testGetNextTrainInvalid() {
+        Station donMills = stations.get("Don Mills");
+        assertNotNull(donMills);
+        assertEquals("Invalid date time format", donMills.getNextTrain("2022-08-30", Direction.EAST));
     }
 
     @Test
